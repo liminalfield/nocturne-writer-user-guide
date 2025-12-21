@@ -1,0 +1,32 @@
+{
+  "fontSize": 18,
+  "styleSpacing": {
+    "headings": {
+      "before": 1.7000000000000002,
+      "after": 0.5
+    },
+    "lists": {
+      "before": 0.30000000000000004,
+      "after": 0.6
+    },
+    "listItems": {
+      "between": 0.5
+    },
+    "blockquote": {
+      "before": 0.8,
+      "after": 0.8
+    },
+    "codeBlock": {
+      "before": 0.8,
+      "after": 0.8
+    },
+    "images": {
+      "before": 1.9999999999999991,
+      "after": 3
+    },
+    "tables": {
+      "before": 0.8,
+      "after": 0.8
+    }
+  }
+}
