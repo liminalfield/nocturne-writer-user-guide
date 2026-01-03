@@ -1,5 +1,5 @@
 {
-  "backgroundMode": "image",
+  "backgroundMode": "color",
   "backgroundImage": {
     "path": "pages/Images/Backgrounds/pexels-sandro-tedeschini-694018589-33647847.jpg",
     "fit": "cover",
