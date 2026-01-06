@@ -1,9 +1,9 @@
 {
   "backgroundMode": "image",
   "backgroundImage": {
-    "path": "pages/Images/Backgrounds/pexels-philippedonn-1257860.jpg",
+    "path": "pages/Images/pexels-adam-lukac-254247-773953.jpg",
     "fit": "cover",
-    "opacity": 0.20000000000000007,
+    "opacity": 0.5,
     "blur": 0,
     "vignette": false
   }
