@@ -5,6 +5,7 @@
     "fit": "cover",
     "opacity": 0.5,
     "blur": 0,
-    "vignette": false
+    "vignette": false,
+    "backgroundColor": "#c6e0fb"
   }
 }
