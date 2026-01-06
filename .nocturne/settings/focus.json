@@ -1,7 +1,7 @@
 {
   "paperWidth": 700,
   "paperBackgroundColor": "#1a1b26",
-  "pageOpacity": 0.8,
+  "pageOpacity": 0.9000000000000001,
   "windowBackgroundMode": "image",
   "windowBackgroundImage": {
     "path": "pages/Images/IMG_0933.jpg",
