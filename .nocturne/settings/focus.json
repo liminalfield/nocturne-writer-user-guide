@@ -6,5 +6,6 @@
     "path": "pages/Images/IMG_0933.jpg",
     "opacity": 0.4,
     "blur": 0
-  }
+  },
+  "pageOpacity": 0.8
 }
