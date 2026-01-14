@@ -8,7 +8,7 @@
     "opacity": 0.4,
     "blur": 0
   },
-  "centerCurrentLine": false,
+  "centerCurrentLine": true,
   "fadeSurroundingText": true,
   "fadeIntensity": 0.8
 }
