@@ -1,8 +1,12 @@
 ---
+uuid: 194dbdc7-7414-4123-97cc-d2db2bf19875
 type: page
 title: Your First Hour with Nocturne Writer
 dateCreated: 2025-12-16T09:57:31.922Z
-dateUpdated: 2025-12-21T09:42:23.673Z
+dateUpdated: 2026-01-06T13:50:26.576Z
+tags:
+  - User Guide
+  - Documentation
 ---
 > Please note that documentation is in a draft state. It is being updated, and the latest version of this book can always be found at GitHub at [User Guide at GitHub](https://github.com/liminalfield/nocturne-writer-user-guide).
 
@@ -136,7 +140,6 @@ Information and functionality presented in this area will continue to expand as 
 
 ## Section 3: Setup Your Writing Environment
 
-<!-- nocturne-empty-paragraph -->
 ## Section 4: Lets Start Writing
 
 ### Step 1: Create a new file

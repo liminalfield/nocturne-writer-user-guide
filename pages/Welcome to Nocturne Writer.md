@@ -2,7 +2,11 @@
 type: page
 title: Welcome to Nocturne Writer
 dateCreated: 2025-12-15T03:51:26.353Z
-dateUpdated: 2025-12-21T09:42:08.729Z
+dateUpdated: 2026-01-14T08:13:09.624Z
+tags:
+  - User Guide
+  - Introduction
+  - Welcome
 ---
 > Please note that documentation is in a draft state. It is being updated, and the latest version of this book can always be found at GitHub at [User Guide at GitHub](https://github.com/liminalfield/nocturne-writer-user-guide).
 
@@ -12,7 +16,7 @@ dateUpdated: 2025-12-21T09:42:08.729Z
 
 *Thank you for taking the time to check out our new application, Nocturne Writer.*
 
-Nocturne Writer is a writing and thinking environment designed for people who want **full ownership of their work**. Your content lives on your computer in plain text Markdown files (see the [Markdown Guide](https://www.markdownguide.org/getting-started/) for more information). You can open your files, view them with a regular text editor, and move them, back them up, and delete them using the file manager on your computer. You don't need an account, you'll never be locked in, and your content isn't hidden away in a database.
+Nocturne Writer is a writing and thinking environment designed for people who want full ownership of their work. Your content lives on your computer in plain text Markdown files (see the [Markdown Guide](https://www.markdownguide.org/getting-started/) for more information). You can open your files, view them with a regular text editor, and move them, back them up, and delete them using the file manager on your computer. You don't need an account, you'll never be locked in, and your content isn't hidden away in a database.
 
 Nocturne Writer doesn’t try to tell you how to work. It is intended to provide you with a personalized and structured space to let you think, develop your ideas, and write - all while staying out of the way.
 
@@ -50,8 +54,6 @@ It is equally comfortable handling a single essay, a series of articles, or a mu
 
 **History matters:** When enabled, Nocturne Writer integrates Git directly into your writing workflow so you can always see what changed, when it changed, and how it changed.
 
-**You don’t need to use everything:** Many features are optional. You can start simple and add complexity only when it helps.
-
 ---
 
 ## About This Beta
@@ -74,7 +76,7 @@ It also means:
 
 * You aren't locked into this tool.
 
-<!-- nocturne-empty-paragraph -->
+
 ***If something feels confusing, fragile, or doesn't work the way you expect, please contact us. Your feedback is the best way to make this product better.***
 
 ---
