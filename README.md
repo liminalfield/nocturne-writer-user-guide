@@ -7,9 +7,9 @@ This User Guide provides orientation and essential information for using Nocturn
 
 At present, the User Guide includes a small number of foundational sections:  
 
-1. [Welcome to Nocturne Writer](https://www.github.com/1): An introduction to Nocturne Writer and its overall intent.  
+1. [Welcome to Nocturne Writer](https://github.com/liminalfield/nocturne-writer-user-guide/blob/main/pages/Welcome%20to%20Nocturne%20Writer.md): An introduction to Nocturne Writer and its overall intent.  
 
-2. [Your First Hour with Nocturne Writer](https://www.github.com/2):  Guidance for getting started and establishing an initial workflow.  
+2. [Your First Hour with Nocturne Writer](https://github.com/liminalfield/nocturne-writer-user-guide/blob/main/pages/Your%20First%20Hour%20with%20Nocturne%20Writer.md):  Guidance for getting started and establishing an initial workflow.  
 
 3. [Beta Information](https://www.github.com/3): Details specific to beta builds, including versioning, limitations, and feedback.  Additional documentation will be added as the beta progresses.
 
