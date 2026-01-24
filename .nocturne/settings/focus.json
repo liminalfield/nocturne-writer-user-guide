@@ -9,6 +9,6 @@
     "blur": 0
   },
   "centerCurrentLine": false,
-  "fadeSurroundingText": true,
+  "fadeSurroundingText": false,
   "fadeIntensity": 0.7
 }
