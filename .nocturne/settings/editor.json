@@ -1,3 +1,10 @@
 {
-  "backgroundMode": "image"
+  "backgroundMode": "image",
+  "backgroundImage": {
+    "path": "C:\\Users\\oluf\\AppData\\Roaming\\nocturne-writer\\background-cache\\3837ca2581a85a86.jpg",
+    "fit": "cover",
+    "opacity": 0.1,
+    "blur": 0,
+    "vignette": false
+  }
 }
