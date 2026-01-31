@@ -10,5 +10,10 @@
   },
   "centerCurrentLine": false,
   "fadeSurroundingText": false,
-  "fadeIntensity": 0.7
+  "fadeIntensity": 0.7,
+  "paperBackgroundMode": "texture",
+  "paperTexture": {
+    "path": "pages/Images/Backgrounds/pexels-philippedonn-1257860.jpg",
+    "opacity": 0.3
+  }
 }
