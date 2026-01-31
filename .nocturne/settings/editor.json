@@ -1,9 +1,9 @@
 {
   "backgroundMode": "image",
   "backgroundImage": {
-    "path": "pages/Images/Backgrounds/pexels-adam-lukac-254247-773953.jpg",
+    "path": "pages/Images/IMG_0933.jpg",
     "fit": "cover",
-    "opacity": 0.1,
+    "opacity": 0.5,
     "blur": 0,
     "vignette": false
   }
